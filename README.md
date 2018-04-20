@@ -31,7 +31,7 @@ make
 ```
 ./point_cloud_relocalization
 ```
-We must change input pointcloud name to **map.pcd** & Must change input part pointcloud name to **part_map.pcd**  
+We must change input gobal pointcloud name to **map.pcd** & Must change input current pointcloud name to **part_map.pcd**  
 We must provide the initial value of registration  
 We have provided a template for **.pcd**  
 
