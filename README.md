@@ -3,7 +3,7 @@
 
 **2017.11.9**: Finish pointcloud processing work.
 
-**2017.11.18**: Finish pointcloud and part pointcloud processing work.
+**2017.11.18**: Finish point cloud and part pointcloud processing work.
 
 # 1. License
 Only Myself and My junior of laboratory.
