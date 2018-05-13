@@ -1,4 +1,4 @@
-# point_cloud_relocalization.
+# Point_cloud_relocalization.
 **Authors**: Zhenghua.Hou HIT 16S108281
 
 **2017.11.9**: Finish pointcloud processing work.
